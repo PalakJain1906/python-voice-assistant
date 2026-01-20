@@ -1,22 +1,14 @@
-# Python Voice Assistant 🎙️
+# 🎙️ Python Voice Assistant (Alexa Clone)
 
-A fully functional **voice‑controlled AI assistant** built in Python.  
-It listens, understands, and responds — from playing music on YouTube to fetching real‑time information.
+This project is a **clone** of the Amazon Alexa assistant. It uses Python to listen for voice commands and execute digital tasks.
 
----
+### ✨ Features
+* **Music:** Plays any song on YouTube.
+* **Knowledge:** Fetches summaries from Wikipedia.
+* **Time:** Announces the current system time.
+* **Fun:** Tells jokes using the pyjokes library.
 
-## ✨ Features
-- 🎵 Play music directly on YouTube by voice command  
-- 🔍 Retrieve real‑time information (weather, news, etc.)  
-- 🗣️ Continuous listening with wake‑word detection  
-- 💬 Natural conversation interface  
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.8+
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
+### 🛠️ Tech Stack
+* **Language:** Python
+* **Voice Recognition:** SpeechRecognition
+* **Voice Output:** pyttsx3
