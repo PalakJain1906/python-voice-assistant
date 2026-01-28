@@ -1,6 +1,6 @@
 # 🎙️ Python Voice Assistant (Alexa Clone)
 
-This project is a **clone** of the Amazon Alexa assistant. It uses Python to listen for voice commands and execute digital tasks.
+Developed a Python-based voice-controlled assistant that replicates core features of Amazon Alexa. The project demonstrates practical expertise in speech recognition, text-to-speech, and API integration.
 
 ### ✨ Features
 * **Music:** Plays any song on YouTube.
